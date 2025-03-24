@@ -20,10 +20,14 @@
     <a href="https://github.com/olbecute/yandex_data_science" target="_blank">
       <img src="https://img.shields.io/badge/Проекты_Яндекс.Практикума-FFCC00?style=for-the-badge&logo=yandex&logoColor=000000" alt="Яндекс.Практикум">
     </a><br>
-    ⭐ Осваиваю парсинг сайтов — есть несколько идей для проектов<br>
-    💡 Новые идеи и их реализацию публикую в <a href="https://t.me/stories_from_it" target="_blank">моём канале</a><br>
   </p>
 
+  <p>
+    <strong>Сейчас:</strong><br>
+    ⭐ Осваиваю парсинг сайтов — есть несколько идей для проектов<br>
+    💡 А новые идеи и трудности обучения публикую в <a href="https://t.me/stories_from_it" target="_blank">своём канале</a><br>
+  </p>
+  
   <div>
     <strong>Навыки:</strong><br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
