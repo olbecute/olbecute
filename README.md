@@ -44,3 +44,10 @@
     <img src="https://img.shields.io/badge/BeautifulSoup-44B12B?style=for-the-badge" alt="BeautifulSoup">
   </div>
 </div>
+
+  <!-- Добавленный виджет статистики -->
+  <div>
+    <a href="https://github.com/olbecute">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olbecute&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+    </a>
+  </div>
