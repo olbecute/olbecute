@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
     <img src="https://img.shields.io/badge/BeautifulSoup-44B12B?style=for-the-badge" alt="BeautifulSoup">
   </div>
-</div>
+
 
   <!-- Добавленный виджет статистики -->
   <div>
@@ -51,3 +51,4 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olbecute&layout=compact&theme=default&hide_border=true" alt="Top Languages">
     </a>
   </div>
+</div>
